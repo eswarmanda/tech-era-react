@@ -1,0 +1,19 @@
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100%;
+  padding: 20px;
+}
+.course-card {
+  display: flex;
+  align-items: center;
+  width: 800px;
+  box-shadow: 1px 1px 10px 1px #acacac;
+  border-radius: 5px;
+}
+.img-card {
+  height: 200px;
+  margin: 10px;
+}
